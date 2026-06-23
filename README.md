@@ -10,12 +10,6 @@ With [APM](https://microsoft.github.io/apm/):
 apm install forwardimpact/monorepo-skills
 ```
 
-With [npx skills](https://github.com/vercel-labs/skills):
-
-```bash
-npx skills add forwardimpact/monorepo-skills
-```
-
 ## Available Skills
 
 | Skill | Description |
