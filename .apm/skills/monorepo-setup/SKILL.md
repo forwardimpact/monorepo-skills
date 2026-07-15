@@ -8,7 +8,7 @@ description: >
   from nothing, or when one exists but the cross-cutting wiring is missing.
 license: Apache-2.0
 metadata:
-  version: "0.1.17"
+  version: "0.1.19"
   author: forwardimpact
 ---
 
