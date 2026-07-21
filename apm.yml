@@ -1,5 +1,5 @@
 name: monorepo-skills
-version: 0.2.0
+version: 0.3.0
 description: >-
   Skills for bootstrapping a Forward Impact-style monorepo end to end — repository structure, instruction architecture, and the Kata Agent Team — composing the Jidoka and Kata packs.
 author: forwardimpact
