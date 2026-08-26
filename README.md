@@ -1,6 +1,6 @@
 # Monorepo Skills
 
-Skills that stand up and maintain a [Forward Impact](https://forwardimpact.team)-style monorepo. They are the cross-cutting setup that composes the Jidoka and Kata packs.
+Skills that stand up and maintain a repository that follows the [Monorepo Structure Standard](https://www.monorepo.team). They are the cross-cutting setup that composes the Jidoka and Kata packs.
 
 ## Install
 
